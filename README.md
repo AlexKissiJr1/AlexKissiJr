@@ -3,19 +3,19 @@ Here is the same markdown but with "Jesús" replaced with "Alex Kissi Jr":
 <div style="max-width:100%;">
   <h1 align="center"> Hi, I'm Alex Kissi Jr.  👋</h1>
   <h2>About me...</h2>
-  I have a Bachelor's Degree in Computer Science from Kwame Nkrumah University of Science and Technology. I'm passionate about learning new things, developing new skills and participating in innovative projects. 
+  I am passionate software engineer with over 7 years of experience as a lead developer, focusing on creating user-centric applications with intuitive interfaces and maintainable source code. Adept at problem-solving and constantly learning new technologies I'm passionate about learning new things, developing new skills and participating in innovative projects. 
 </div>
 <div>
   <p>
     <ul>
-      <li>🌱 I’m currently learning Tiny ML and expanding my tech stack.</li >
+      <li>🌱 I’m currently learning AI and expanding my tech stack.</li >
       <li>👯 I’m looking to collaborate on innovative AI projects.</li>
       <li>📫 How to reach me: 
-        <a href="mailto:alexkissijr@gmail.com">
+        <a href="mailto:info@alexkissijr.com">
           <img align="center" src="img/gmail.png" alt="Gmail" style="width:25px;">
         </a>
         or
-        <a href="https://www.linkedin.com/in/alex-kissi-jr-8283b7193/">
+        <a href="https://www.linkedin.com/in/alexkissijr/">
           <img align="center" src="img/linkedin.png" alt="LinkedIn" style="width:25px;">
         </a>
       </li>
@@ -37,6 +37,8 @@ Here is the same markdown but with "Jesús" replaced with "Alex Kissi Jr":
       <img align="center" src="img/sh.png" alt="Shell" style="width:50px;">&nbsp&nbsp
       <img align="center" src="img/php.png" alt="PHP" style="width:50px;">&nbsp&nbsp
       <img align="center" src="img/assembly.png" alt="Assembly" style="width:35px;">
+      <img align="center" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash original.svg" />
+      <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
       <br>
       <br>
       <img align="center" src="img/HTML.png" alt="HTML" style="width:45px;">&nbsp 
