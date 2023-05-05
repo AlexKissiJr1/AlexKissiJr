@@ -1,4 +1,3 @@
-Here is the same markdown but with "Jesús" replaced with "Alex Kissi Jr":
 
 <div style="max-width:100%;">
   <h1 align="center"> Hi, I'm Alex Kissi Jr.  👋</h1>
